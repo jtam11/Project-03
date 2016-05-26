@@ -1,0 +1,30 @@
+{
+  "name": "commune",
+  "version": "1.0.0",
+  "description": "An app where users can sign-up to host/lead a talk or open forum about a topic of their choosing, and other users can sign-up to attend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtam11/Project-03.git"
+  },
+  "author": "Justin Tam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtam11/Project-03/issues"
+  },
+  "homepage": "https://github.com/jtam11/Project-03#readme",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.15.1",
+    "bower": "^1.7.9",
+    "dotenv": "^2.0.0",
+    "express": "^4.13.4",
+    "jwt-simple": "^0.5.0",
+    "moment": "^2.13.0",
+    "mongoose": "^4.4.19",
+    "morgan": "^1.7.0"
+  }
+}
