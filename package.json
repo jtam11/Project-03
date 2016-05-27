@@ -19,7 +19,6 @@
   "dependencies": {
     "bcryptjs": "^2.3.0",
     "body-parser": "^1.15.1",
-    "bower": "^1.7.9",
     "dotenv": "^2.0.0",
     "ejs": "^2.4.2",
     "express": "^4.13.4",
